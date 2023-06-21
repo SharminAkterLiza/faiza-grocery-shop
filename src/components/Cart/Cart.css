@@ -1,0 +1,24 @@
+.cart {
+    position: sticky;
+    top: 15px;
+    padding: 30px 20px;
+}
+
+.clear-cart {
+    background-color: red;
+    border: none;
+    height: 30px;
+    width: 120px;
+    color: white;
+    margin-left: 5px;
+    font-weight: 700;
+    border-radius: 5px;
+
+}
+
+.style-itemHeadin {
+    color: purple;
+    padding-bottom: 10px;
+    border-top: 2px dotted purple;
+    border-bottom: 2px dotted purple;
+}
