@@ -1,0 +1,50 @@
+.rci-style {
+    height: 350px;
+    width: 220px;
+    border: 1px solid rgb(215, 214, 211);
+    margin: 10px;
+    padding: 5px;
+    position: relative;
+
+}
+
+.rci-style img {
+    height: 160px;
+    width: 160px;
+    border-radius: 10px;
+    margin: 20px;
+    border: 1px solid rgb(181, 181, 181);
+    margin-left: 30px;
+}
+
+.rci-style-btn {
+    background-color: forestgreen;
+    height: 40px;
+    width: 150px;
+    padding: 5px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    bottom: 0px;
+    position: absolute;
+    width: 80%;
+
+    border: none;
+    border-radius: 10px;
+    margin: 20px;
+    color: white;
+    font-weight: 700;
+
+
+
+}
+
+.rci-style-btn:hover {
+    background-color: rgb(14, 101, 14);
+
+}
+
+.rci-style-btn {
+    gap: 10px;
+}

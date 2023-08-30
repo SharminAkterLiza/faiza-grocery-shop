@@ -1,0 +1,92 @@
+[
+    {
+        "sn": "47",
+        "name": "Center-Fruit",
+        "price": 2,
+        "img": "https://i.ibb.co/wz4jDwf/Center-Fruit-Fruits-Flavour-Liquid-Filled-Bubble-Gum-1552028981-10057573-1.jpg"
+    },
+    {
+        "sn": "48",
+        "name": "Bounty",
+        "price": 70,
+        "img": "https://i.ibb.co/716m1XB/bounty.png"
+    },
+    {
+        "sn": "49",
+        "name": "Belgian Milk",
+        "price": 90,
+        "img": "https://i.ibb.co/1r8HMJD/Belgian-Milk-Chocolate-Bar-min-1.png"
+    },
+    {
+        "sn": "50",
+        "name": "Belgian Milk",
+        "price": 90,
+        "img": "https://i.ibb.co/1r8HMJD/Belgian-Milk-Chocolate-Bar-min-1.png"
+    },
+    {
+        "sn": "51",
+        "name": "Pulse",
+        "price": 2,
+        "img": "https://i.ibb.co/DwmXyJQ/1613895812-Xodtcij-M.jpg"
+    },
+    {
+        "sn": "52",
+        "name": "Dairy Milk Silk",
+        "price": 190,
+        "img": "https://i.ibb.co/18MNThV/51w-Qg3-GGww-L-AC-UF1000-1000-QL80.jpg"
+    },
+    {
+        "sn": "53",
+        "name": "Mama chocolate",
+        "price": 5,
+        "img": "https://i.ibb.co/1LPwN9F/small-cholate-750-px-x750px.png"
+    },
+    {
+        "sn": "54",
+        "name": "Mama chocolate",
+        "price": 5,
+        "img": "https://i.ibb.co/25ZWg4p/small-cholate-biscut-750-px-x750px.png"
+    },
+    {
+        "sn": "55",
+        "name": "Tasty Hazmi",
+        "price": 10,
+        "img": "https://i.ibb.co/GttBCLV/92739f6a8f32177d42ce779bcc929bcd.jpg"
+    },
+    {
+        "sn": "56",
+        "name": "Mars",
+        "price": 60,
+        "img": "https://i.ibb.co/KmNxm7N/mars-bar.jpg"
+    },
+    {
+        "sn": "57",
+        "name": "5 Star",
+        "price": 30,
+        "img": "https://i.ibb.co/yWbP8m5/5star.jpg"
+    },
+    {
+        "sn": "58",
+        "name": "Hojom ",
+        "price": 2,
+        "img": "https://i.ibb.co/bgWkDxp/hojom.jpg"
+    },
+    {
+        "sn": "59",
+        "name": "Snikers",
+        "price": 100,
+        "img": "https://i.ibb.co/zh5Jh5B/Snikers-Chocolate-bar-50-gm.webp"
+    },
+    {
+        "sn": "60",
+        "name": "Kit-Kat",
+        "price": 70,
+        "img": "https://i.ibb.co/z5TZ4BF/kitkat-chocolate-bars-233704606.jpg"
+    },
+    {
+        "sn": "61",
+        "name": "Kinder Joy",
+        "price": 30,
+        "img": "https://i.ibb.co/MDk1nwt/Kinder-Joy-01.jpg"
+    }
+]

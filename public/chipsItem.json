@@ -1,0 +1,92 @@
+[
+    {
+        "sn": "62",
+        "name": "Krispy Chips",
+        "price": 15,
+        "img": "https://i.ibb.co/nD1yrrj/hot-fingers-s.png"
+    },
+    {
+        "sn": "63",
+        "name": "Curl Chips",
+        "price": 10,
+        "img": "https://i.ibb.co/QYcfvp1/grocery-food-items-0-146203.jpg"
+    },
+    {
+        "sn": "64",
+        "name": "Mr. Twist",
+        "price": 15,
+        "img": "https://i.ibb.co/sj1TMnQ/Bombay-Sweets-Mr-Twist-22-gm.webp"
+    },
+    {
+        "sn": "65",
+        "name": "Ring Chips",
+        "price": 10,
+        "img": "https://i.ibb.co/h8HTDQP/Bombay-Sweets-Ring-Chips-22-gm.webp"
+    },
+    {
+        "sn": "66",
+        "name": "Alloz Chips",
+        "price": 15,
+        "img": "https://i.ibb.co/TqRRsCP/alooz-waves-hot-flavour-potato-chips.jpg"
+    },
+    {
+        "sn": "67",
+        "name": "Pillow Chips",
+        "price": 15,
+        "img": "https://i.ibb.co/NjNLyj3/297-2.jpg"
+    },
+    {
+        "sn": "68",
+        "name": "Potato Chips",
+        "price": 15,
+        "img": "https://i.ibb.co/XtYdvWD/1-11.png"
+    },
+    {
+        "sn": "69",
+        "name": "Bombay sweet",
+        "price": 60,
+        "img": "https://i.ibb.co/mRc0vjc/102aaecca89d-11-500x500.png"
+    },
+    {
+        "sn": "70",
+        "name": "Chanachor",
+        "price": 50,
+        "img": "https://i.ibb.co/MsQdhCp/b59158ef69b778a578a921a9de49f5d4-jpg-400x400-jpg.webp"
+    },
+    {
+        "sn": "71",
+        "name": "Jhal Chanachor",
+        "price": 15,
+        "img": "https://i.ibb.co/W5m76Tr/d644e927d31931ee4c3a5b8e5ef22864.jpg"
+    },
+    {
+        "sn": "72",
+        "name": "Rochi Jhal Chanachor",
+        "price": 10,
+        "img": "https://i.ibb.co/TKfGF4H/c8e840ad941046f912196c19ab8ccf97-500x500.jpg"
+    },
+    {
+        "sn": "73",
+        "name": "Thai Food",
+        "price": 50,
+        "img": "https://i.ibb.co/w6j4THh/canacur.jpg"
+    },
+    {
+        "sn": "74",
+        "name": "Fried peas 350gm",
+        "price": 120,
+        "img": "https://i.ibb.co/YtnWQmj/friedpeas.jpg"
+    },
+    {
+        "sn": "75",
+        "name": "Paw Peas",
+        "price": 5,
+        "img": "https://i.ibb.co/q76Rsdq/Motor-Baja-35-gm.png"
+    },
+    {
+        "sn": "76",
+        "name": "Jacker Chips",
+        "price": 130,
+        "img": "https://i.ibb.co/z8MQK1Q/11361.webp"
+    }
+]

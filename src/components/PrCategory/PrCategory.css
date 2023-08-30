@@ -1,0 +1,32 @@
+.category-style button {
+    display: block;
+    padding: 10px 30px;
+    height: 40px;
+    width: 210px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: skyblue;
+
+}
+
+.category-name {
+    margin-left: 40px;
+    color: purple;
+}
+
+.category-style button:hover {
+    background-color: cornflowerblue;
+}
+
+.category-style a {
+    text-decoration: none;
+
+
+}
+
+.category-style button {
+    font-weight: bold;
+    font-size: 15px;
+}

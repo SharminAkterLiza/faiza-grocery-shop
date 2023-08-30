@@ -1,0 +1,32 @@
+.about-style {
+
+    margin: 30px;
+}
+
+.about-info-style {
+    margin-left: 600px;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-info-style p {
+    margin-left: -50px;
+}
+
+.about-info-style h2 {
+    color: purple;
+}
+
+.back-btn-stylee {
+    margin-left: 1300px;
+    background-color: purple;
+    border: none;
+    height: 30px;
+    width: 150px;
+    color: white;
+
+    font-weight: 700;
+    border-radius: 5px;
+    margin-top: 40px;
+
+}

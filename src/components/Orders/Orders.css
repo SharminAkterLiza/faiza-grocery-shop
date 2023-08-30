@@ -1,0 +1,30 @@
+.btn-procede-delivery {
+    background-color: green;
+    border: none;
+    height: 30px;
+    width: 180px;
+    color: white;
+    margin-left: 35px;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-top: 40px;
+
+}
+
+.cart-container {
+    margin-left: 5px;
+}
+
+.back-btn-style {
+
+    background-color: purple;
+    border: none;
+    height: 30px;
+    width: 150px;
+    color: white;
+    margin-left: 35px;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-top: 40px;
+    margin-left: 350px;
+}

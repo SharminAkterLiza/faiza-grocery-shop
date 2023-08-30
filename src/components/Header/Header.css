@@ -23,3 +23,15 @@
 .header a:hover {
     color: orange;
 }
+
+.btn-logout {
+
+    background-color: orange;
+    border: none;
+    height: 30px;
+    width: 120px;
+    color: white;
+    margin-left: 25px;
+    font-weight: 700;
+    border-radius: 5px;
+}

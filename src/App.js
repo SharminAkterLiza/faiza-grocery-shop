@@ -7,6 +7,17 @@ import Shop from './components/Shop/Shop';
 import Orders from './components/Orders/Orders';
 import Inventory from './components/Inventory/Inventory';
 import { productsAndCartloader } from './loaders/productsAndCartloader';
+import Login from './components/Login/Login';
+import SignUp from './components/SingUp/SignUp';
+import PrivateRoute from './routes/PrivateRoute';
+import Delivery from './components/Delivery/Delivery';
+import RegularCI from './RegularItems/RegularCI';
+import Drinks from './RegularItems/Drinks/Drinks';
+import IceCream from './RegularItems/IceCream/IceCream';
+import Stationary from './RegularItems/Stationary/Stationary';
+import Chocolate from './RegularItems/Chocolate/Chocolate';
+import Chips from './RegularItems/Chips/Chips';
+import Help from './components/Help/Help';
 
 
 
@@ -28,11 +39,52 @@ function App() {
         },
         {
           path: 'inventory',
-          element: <Inventory></Inventory>
+          element: <PrivateRoute><Inventory></Inventory></PrivateRoute>
+        },
+        {
+          path: 'delivery',
+          element: <PrivateRoute> <Delivery></Delivery> </PrivateRoute>
         },
         {
           path: 'about',
           element: <About></About>
+        },
+
+        {
+          path: 'login',
+          element: <Login></Login>
+        },
+        {
+          path: 'signup',
+          element: <SignUp></SignUp>
+        },
+        {
+          path: 'help',
+          element: <Help></Help>
+        },
+        {
+          path: 'regci',
+          element: <RegularCI></RegularCI>
+        },
+        {
+          path: 'regdrinks',
+          element: <Drinks></Drinks>
+        },
+        {
+          path: 'icecream',
+          element: <IceCream></IceCream>
+        },
+        {
+          path: 'stationary',
+          element: <Stationary></Stationary>
+        },
+        {
+          path: 'chocolate',
+          element: <Chocolate></Chocolate>
+        },
+        {
+          path: 'chips',
+          element: <Chips></Chips>
         }
       ]
 

@@ -1,0 +1,23 @@
+.rci-items-style {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    margin: 30px;
+
+}
+
+.rci-details-style {
+    margin-left: 20px;
+
+
+}
+
+
+
+.regular-items-design {
+    display: flex;
+}
+
+h1 {
+    margin-left: 500px;
+    color: purple;
+}

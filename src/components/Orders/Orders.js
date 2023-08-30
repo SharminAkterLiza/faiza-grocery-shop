@@ -28,12 +28,18 @@ const Orders = () => {
                     ></ReviewItem>)
                 }
                 {
-                    cart.length === 0 && <h2>No Items for Review.Please select itam from <Link to="/">here.</Link></h2>
+                    cart.length === 0 && <h2>No Items for Review.Please select item from <Link to="/">here.</Link></h2>
                 }
             </div>
             <div className='cart-container'>
 
-                <Cart clearCart={clearCart} cart={cart} ></Cart>
+                <Cart clearCart={clearCart} cart={cart} >
+                    <Link to='/delivery'>
+                        <button className='btn-procede-delivery'>Proceed Delivery</button>
+
+                    </Link>
+                    <Link to="/"><button className='back-btn-style'>Back</button></Link>
+                </Cart>
             </div>
         </div>
     );

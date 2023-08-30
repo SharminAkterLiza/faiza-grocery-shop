@@ -1,0 +1,46 @@
+.help-span {
+    color: blueviolet;
+}
+
+.help-design {
+    margin: 30px;
+    padding: 20px;
+    display: flex;
+}
+
+.help-design img {
+
+    height: 400px;
+    width: 700px;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 600;
+    color: blue;
+}
+
+h3 {
+    color: purple;
+    font-size: 30px;
+
+}
+
+h6 {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.help-fb-btn {
+    margin-left: 30px;
+    border: none;
+    margin-top: 0px;
+    border-radius: 50%;
+
+}
+
+.fb-icon-flex {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}

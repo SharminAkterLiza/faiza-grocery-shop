@@ -4,6 +4,7 @@ import Product from '../Product/Product';
 import Cart from '../Cart/Cart';
 import { addToDb, deleteShoppingCart, getShoppingCart } from '../../utilities/database';
 import { Link, useLoaderData } from 'react-router-dom';
+import PrCategory from '../PrCategory/PrCategory';
 
 const Shop = () => {
     const products = useLoaderData();
@@ -59,6 +60,13 @@ const Shop = () => {
 
     return (
         <div className='shop-container'>
+            <div>
+
+
+                <PrCategory></PrCategory>
+
+
+            </div>
             <div className="products-container">
                 {
                     products.map(product => <Product

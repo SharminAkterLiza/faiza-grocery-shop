@@ -1,0 +1,104 @@
+[
+    {
+        "sn": "01",
+        "name": "Soyabean Oil 5ltr",
+        "price": 900,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9eP3Pve10xr5SbuKkz_LhH_O84bFOmmdentPuPpr8bg&s"
+    },
+    {
+        "sn": "02",
+        "name": "Masterd Oil",
+        "price": 280,
+        "img": "https://i.ibb.co/FwRZNbN/ed7624ba458c3238a35446680c7e4aa5.jpg"
+    },
+    {
+        "sn": "03",
+        "name": "Radhuni chicken masala",
+        "price": 50,
+        "img": "https://i.ibb.co/Xs05wC1/radhuni-chicken-masala.jpg"
+    },
+    {
+        "sn": "04",
+        "name": "Radhuni beef masala",
+        "price": 50,
+        "img": "https://i.ibb.co/kSsscgD/1641754076.jpg"
+    },
+    {
+        "sn": "05",
+        "name": "Chinigura chal",
+        "price": 160,
+        "img": "https://i.ibb.co/287tD04/43-Rc-Neh3h-WLNi1se-Jv3v-LBBOo-LQJZ69l-EHA2-Rv-R5.png"
+    },
+    {
+        "sn": "06",
+        "name": "Radhuni roast masala",
+        "price": 50,
+        "img": "https://i.ibb.co/4FHMD8Q/radhuni-roast-masala.jpg"
+    },
+    {
+        "sn": "07",
+        "name": "Radhuni chatpati",
+        "price": 50,
+        "img": "https://i.ibb.co/0tMvvQQ/radhuni-chatpati-56-11zon.jpg"
+    },
+    {
+        "sn": "08",
+        "name": "Radhonu chili powder",
+        "price": 240,
+        "img": "https://i.ibb.co/nfG2mgs/2022-03-06-185301-400x400.jpg"
+    },
+    {
+        "sn": "09",
+        "name": "Radhonu turmeric powder",
+        "price": 250,
+        "img": "https://i.ibb.co/C7qkZgf/dc6908b4d11456b95d1d974c3883fc13.jpg"
+    },
+    {
+        "sn": "10",
+        "name": "Dry plum",
+        "price": 120,
+        "img": "https://i.ibb.co/jTdZWZW/IMG-5428.jpg"
+    },
+    {
+        "sn": "11",
+        "name": "Paanch forom",
+        "price": 130,
+        "img": "https://i.ibb.co/rQ8HcqS/IMG-5432-1.jpg"
+    },
+    {
+        "sn": "12",
+        "name": "Pista chio",
+        "price": 130,
+        "img": "https://i.ibb.co/SBKPk8Q/IMG-5462.jpg"
+    },
+    {
+        "sn": "13",
+        "name": "Cardamom",
+        "price": 110,
+        "img": "https://i.ibb.co/cTN2KjZ/IMG-5497-pcodhpmd43e2jkpuxoabj2lt0bqxtctlz8rb7113g8.jpg"
+    },
+    {
+        "sn": "14",
+        "name": "Salt",
+        "price": 40,
+        "img": "https://i.ibb.co/nQ8tdJf/aci-pure-salt-1-kg.webp"
+    },
+    {
+        "sn": "15",
+        "name": "Bit salt",
+        "price": 50,
+        "img": "https://i.ibb.co/chBccFP/IMG-5543.jpg"
+    },
+    {
+        "sn": "16",
+        "name": "Cashew Nuts",
+        "price": 200,
+        "img": "https://i.ibb.co/WsQV1Ld/IMG-5502-1.jpg"
+    },
+    {
+        "sn": "17",
+        "name": "Radhonu daniya powder",
+        "price": 180,
+        "img": "https://i.ibb.co/pXf7b83/181821-05-07-2023.jpg"
+    }
+]
