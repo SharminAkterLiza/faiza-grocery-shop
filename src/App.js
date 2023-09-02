@@ -18,6 +18,7 @@ import Stationary from './RegularItems/Stationary/Stationary';
 import Chocolate from './RegularItems/Chocolate/Chocolate';
 import Chips from './RegularItems/Chips/Chips';
 import Help from './components/Help/Help';
+import NDitem from './RegularItems/NDitem/NDitem';
 
 
 
@@ -85,6 +86,10 @@ function App() {
         {
           path: 'chips',
           element: <Chips></Chips>
+        },
+        {
+          path: 'nodosDesert',
+          element: <NDitem></NDitem>
         }
       ]
 

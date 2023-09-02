@@ -26,8 +26,8 @@ const PrCategory = () => {
 
             <Link to="/chips"><button>Chips</button></Link>
 
+            <Link to="/nodosDesert"><button>Noodles & Deserts</button></Link>
 
-            <button>Noodles & Deserts</button>
 
             <Link to="/stationary">
                 <button>Stationary</button>
