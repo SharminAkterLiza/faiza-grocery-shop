@@ -14,7 +14,7 @@ const Chips = () => {
 
         <div>
 
-            <h1>...Drinking Items...</h1>
+            <h1>...Chips Items...</h1>
             <div className='regular-items-design'>
                 <div>
 
